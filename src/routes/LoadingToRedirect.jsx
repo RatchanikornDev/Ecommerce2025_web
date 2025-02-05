@@ -13,10 +13,10 @@ const LoadingToRedirect = () => {
                            clearInterval((interval))
                             setRedirect(true)
                         }
-                        return currentCount -1
+                        return currentCount -0.5
                 })
 
-            },1000)
+            },2000)
 
             return () => clearInterval(interval)
     },[])
