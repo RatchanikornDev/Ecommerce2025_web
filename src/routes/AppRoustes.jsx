@@ -18,7 +18,7 @@ import LayoutUser from '../layout/LayoutUser'
 import HomeUser from '../pages/user/HomeUser'
 import ProtectRouteUser from './ProtectRouteUser'
 import ProtectRouteAdmin from './ProjectRouteAdmin'
-import EditProduct from '../pages/admin/Editproduct'
+import EditProduct from '../pages/admin/EditProduct'
 import Payment from '../pages/user/Payment'
 import ManageOrder from '../pages/admin/ManageOrder'
 
